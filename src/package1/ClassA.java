@@ -6,5 +6,6 @@ public class ClassA {
         System.out.println("This is ClassA!");
         System.out.println("This is ClassA@");
         System.out.println("This is ClassA#");
+        System.out.println("This is ClassA$");
     }
 }
